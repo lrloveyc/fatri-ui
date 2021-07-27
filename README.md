@@ -14,20 +14,16 @@
 
 于是在部门内搭了一个简单的组件库，组件不多，但在搭建过程中掌握了很多知识，再看 antd 等热门组件库，对其中的一些设计也有了更深的感悟，故记录下来，希望能帮助到其他的同学。
 
-[🚀 在线预览](https://worldzhao.github.io/react-ui-library-tutorial)
-
 🚆 本地预览
 
 ```bash
 git clone git@github.com:worldzhao/react-ui-library-tutorial.git
-cd react-ui-library-tutorial
+cd fatri-ui
 yarn
 yarn start
 ```
 
-按顺序执行完命令后，即可在 localhost:3000 端口看到以下内容：
 
-![preview](https://raw.githubusercontent.com/worldzhao/blog/master/images/rc-lib-v1-1.jpg)
 
 ## 概览
 
