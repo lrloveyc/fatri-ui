@@ -17,7 +17,7 @@
 🚆 本地预览
 
 ```bash
-git clone git@github.com:worldzhao/react-ui-library-tutorial.git
+git clone https://github.com/lrloveyc/fatri-ui.git
 cd fatri-ui
 yarn
 yarn start
